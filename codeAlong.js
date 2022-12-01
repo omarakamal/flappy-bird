@@ -1,3 +1,4 @@
+let dummyVariable = null
 const myGameArea = {
     canvas: document.createElement('canvas'),
     frames: 0,
